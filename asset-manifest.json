@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NikhilTanneeru/React-Portfolio/static/css/main.34d0adeb.css",
+    "main.js": "/NikhilTanneeru/React-Portfolio/static/js/main.e6ecf70c.js",
+    "static/js/453.1407b060.chunk.js": "/NikhilTanneeru/React-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Webdeveloper.png": "/NikhilTanneeru/React-Portfolio/static/media/Webdeveloper.8bf8bdf4c388f5526054.png",
+    "index.html": "/NikhilTanneeru/React-Portfolio/index.html",
+    "main.34d0adeb.css.map": "/NikhilTanneeru/React-Portfolio/static/css/main.34d0adeb.css.map",
+    "main.e6ecf70c.js.map": "/NikhilTanneeru/React-Portfolio/static/js/main.e6ecf70c.js.map",
+    "453.1407b060.chunk.js.map": "/NikhilTanneeru/React-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d0adeb.css",
+    "static/js/main.e6ecf70c.js"
+  ]
+}
